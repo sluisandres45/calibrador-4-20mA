@@ -1,0 +1,10 @@
+# Ignorar archivos de compilación de Arduino
+build/
+*.elf
+*.hex
+*.bin
+*.eep
+
+# Ignorar configuraciones de sistema operativo
+.DS_Store
+Thumbs.db
