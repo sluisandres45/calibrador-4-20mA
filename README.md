@@ -21,3 +21,13 @@ Este instrumento de diagnóstico interviene el lazo en campo para medir la corri
 * Amplificador Operacional LM358N
 * Display TM1637
 * Módulos reguladores DC-DC LM2596
+  
+## Pruebas de calibración
+![4 mA](4%20mA.jpg)
+![8 mA](8%20mA.jpg)
+![12 mA](12%20mA.jpg)
+![16 mA](16%20mA.jpg)
+![20 mA](20%20mA.jpg)
+
+## Video
+[Ver video](https://drive.google.com/drive/folders/1i16vZK-J-zXt21COWbjtwdxBKazAZUi5?usp=sharing)
